@@ -2,4 +2,5 @@ ipykernel
 pandas 
 numpy
 streamlit
+it
 scikit-learn
